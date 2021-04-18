@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/b7web-tips-calculator/static/css/main.8adfcfcd.chunk.css",
+    "main.js": "/b7web-tips-calculator/static/js/main.c966e51f.chunk.js",
+    "main.js.map": "/b7web-tips-calculator/static/js/main.c966e51f.chunk.js.map",
+    "runtime-main.js": "/b7web-tips-calculator/static/js/runtime-main.0e270960.js",
+    "runtime-main.js.map": "/b7web-tips-calculator/static/js/runtime-main.0e270960.js.map",
+    "static/js/2.e57466db.chunk.js": "/b7web-tips-calculator/static/js/2.e57466db.chunk.js",
+    "static/js/2.e57466db.chunk.js.map": "/b7web-tips-calculator/static/js/2.e57466db.chunk.js.map",
+    "static/js/3.94a6b7ef.chunk.js": "/b7web-tips-calculator/static/js/3.94a6b7ef.chunk.js",
+    "static/js/3.94a6b7ef.chunk.js.map": "/b7web-tips-calculator/static/js/3.94a6b7ef.chunk.js.map",
+    "index.html": "/b7web-tips-calculator/index.html",
+    "static/css/main.8adfcfcd.chunk.css.map": "/b7web-tips-calculator/static/css/main.8adfcfcd.chunk.css.map",
+    "static/js/2.e57466db.chunk.js.LICENSE.txt": "/b7web-tips-calculator/static/js/2.e57466db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e270960.js",
+    "static/js/2.e57466db.chunk.js",
+    "static/css/main.8adfcfcd.chunk.css",
+    "static/js/main.c966e51f.chunk.js"
+  ]
+}
